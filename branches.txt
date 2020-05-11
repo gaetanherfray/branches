@@ -8,4 +8,5 @@ Une même branche locale peut correspondre à deux branches distantes
 git pull origin [name] nous permet de mettre à jour notre branche locale
 Voyons maintenant la réécriture
 Il paraît que c'est fun
+Ça devient lourd ces ajouts successifs
 Nous avons vu ce que cela donnait.
