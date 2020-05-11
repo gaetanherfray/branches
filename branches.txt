@@ -1,6 +1,6 @@
-+-------------------------+
-| Rappel sur les branches |
-+-------------------------+
++--------------------------------------+
+| Rappel sur les branches et la fusion |
++--------------------------------------+
 Commençons avec les branches
 git checkout -b [name] <sha> permet de restaurer une branche supprimer
 git diff [name1] [name2] permet de voir les différences entre les dernières version de deux branches
