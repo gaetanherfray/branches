@@ -1,4 +1,4 @@
-Commençons avec les branches!
+Commençons avec les branches
 git branch permet de lister les branches locales.
 git branch [name] permet de créer une nouvelle branche.
 git checkout [name] permet de se déplacer sur une branche.
