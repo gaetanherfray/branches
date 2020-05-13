@@ -6,5 +6,7 @@ git checkout -b [name] <sha> permet de restaurer une branche supprimer
 git diff [name1] [name2] permet de voir les différences entre les dernières version de deux branches
 Une même branche locale peut correspondre à deux branches distantes
 git pull origin [name] nous permet de mettre à jour notre branche locale
-Voyons ce que la réécriture donnera
+Voyons maintenant la réécriture
+Il paraît que c'est fun
+Ça devient lourd ces ajouts successifs
 Nous avons vu ce que cela donnait.
