@@ -2,6 +2,12 @@
 | Rappel sur les branches et la fusion |
 +--------------------------------------+
 Commençons avec les branches
+git pull origin [name] nous permet de mettre à jour notre branche locale
+git branch permet de lister les branches locales.
+git branch [name] permet de créer une nouvelle branche.
+git branch -d permet de supprimer une branche.
+git checkout [name] permet de se déplacer sur une branche.
+git checkout -b [name] permet de créer une nouvelle branche et se déplacer dessus.
 git checkout -b [name] <sha> permet de restaurer une branche supprimer
 git diff [name1] [name2] permet de voir les différences entre les dernières version de deux branches
 Une même branche locale peut correspondre à deux branches distantes
@@ -10,3 +16,4 @@ Voyons maintenant la réécriture
 Il paraît que c'est fun
 Ça devient lourd ces ajouts successifs
 Nous avons vu ce que cela donnait.
+Finalement les conflits, c'est pas si compliqué
