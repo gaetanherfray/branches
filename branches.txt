@@ -10,6 +10,7 @@ git branch [name] permet de créer une nouvelle branche.
 git branch -d permet de supprimer une branche.
 git checkout [name] permet de se déplacer sur une branche.
 Ajout d'une ligne avec le premier compte
+Ajout d'une seconde ligne avec le premier compte
 git checkout -b [name] permet de créer une nouvelle branche et se déplacer dessus.
 git checkout -b [name] <sha> permet de restaurer une branche supprimer
 git diff [name1] [name2] permet de voir les différences entre les dernières version de deux branches
