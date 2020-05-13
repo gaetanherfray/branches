@@ -17,3 +17,4 @@ Il paraît que c'est fun
 Ça devient lourd ces ajouts successifs
 Nous avons vu ce que cela donnait.
 Finalement les conflits, c'est pas si compliqué
+Voyons ce que donne le rebase collaboratif
