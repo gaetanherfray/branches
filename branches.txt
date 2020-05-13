@@ -3,6 +3,7 @@
 +--------------------------------------+
 Commençons avec les branches
 Ajout d'une ligne avec le second compte
+Ajout d'une seconde ligne avec le second compte
 git pull origin [name] nous permet de mettre à jour notre branche locale
 git branch permet de lister les branches locales.
 git branch [name] permet de créer une nouvelle branche.
