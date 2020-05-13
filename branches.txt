@@ -18,3 +18,4 @@ Il paraît que c'est fun
 Nous avons vu ce que cela donnait.
 Finalement les conflits, c'est pas si compliqué
 Voyons ce que donne le rebase collaboratif
+Voyons un rebase collaboratif plus complexe
