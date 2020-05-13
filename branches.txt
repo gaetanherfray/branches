@@ -7,3 +7,4 @@ git diff [name1] [name2] permet de voir les différences entre les dernières ve
 Une même branche locale peut correspondre à deux branches distantes
 git pull origin [name] nous permet de mettre à jour notre branche locale
 Voyons ce que la réécriture donnera
+Nous avons vu ce que cela donnait.
